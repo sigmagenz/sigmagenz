@@ -1,7 +1,7 @@
 <h1 align="left">Hai! I'm Zen. <br> I am a Frontend Engineer from Indonesia.</h1>
 
 <p align="left">I'm Zen, a frontend engineer hailing from Indonesia. My passions lie at the intersection of code and art, and I'm always up for exploring creative ways to bridge this gap.</p>
-<p align="left">If you find anything I've built interesting, feel free to leave a ⭐Star on the repository.</p>
+<p align="left">If you find anything I've built interesting, feel free to leave a ⭐ Star on the repository.</p>
 
 ###
 
